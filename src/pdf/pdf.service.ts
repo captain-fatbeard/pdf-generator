@@ -15,8 +15,8 @@ export class PDFService {
 			// path: 'document.pdf', // save to disk
 			displayHeaderFooter: true,
 			margin: {
-				top: '200px',
-				bottom: '200px',
+				top: '20px',
+				bottom: '20px',
 			},
 			printBackground: true,
 		});
